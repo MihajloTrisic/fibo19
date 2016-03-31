@@ -1,0 +1,5 @@
+commit e2b18064e49150e2ac4c2e78c65e2ad3de0a610a
+Author: mtrisic <mtrisic@students.tgm.ac.at>
+Date:   Thu Mar 31 09:13:16 2016 +0200
+
+    Commit von Test3
